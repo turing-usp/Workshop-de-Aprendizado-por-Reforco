@@ -188,7 +188,8 @@ class PongEnv(gym.Env):
             self.clock.tick(self.fps)
 
     def close(self):
-        pygame.display.quit()
+        # TODO: verificar isso
+        pygame.display.iconify()
 
 
 class EasyPongEnv(PongEnv):
