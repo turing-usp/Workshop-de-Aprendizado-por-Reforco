@@ -77,7 +77,7 @@ class Ball:
     def bounce(self, wall):
         lookup_table = {0: [-1, 1],
                         1: [1, -1]}
-        if abs(self.x - wall.x) <= wall.width/2 and abs(self.y - wall.y) <= wall.length/2:
+        if abs(self.x - wall.x) < (wall.width/2 + self.size - 1) and abs(self.y - wall.y) < (wall.length/2 + self.size):
             self.velocity[0] *= lookup_table[wall.orientation][0]
             self.velocity[1] *= lookup_table[wall.orientation][1]
 
@@ -154,7 +154,7 @@ class PongEnv(gym.Env):
         for bar in self.bars:
             self.ball.bounce(bar)
 
-        if 4 < self.ball.x < self.WIDTH - 4:
+        if (self.ball.size + 3) < self.ball.x < self.WIDTH - (3 + self.ball.size):
             reward = 0
         else:
             player_scored = self.ball.x > 4
