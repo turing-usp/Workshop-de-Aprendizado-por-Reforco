@@ -7,10 +7,6 @@ Este repositório contém os materiais do **Workshop de Aprendizado por Reforço
 ### - [👩‍🎓 Notebook do Participante](Pong%20-%20Participante.ipynb)
 ### - [👩‍🏫 Notebook Gabarito](Pong%20-%20Gabarito.ipynb)
 
-## ❓ Servidor de Dúvidas
-
-#### Link: https://discord.gg/c24eEpz
-
 ## 🧠 Grupo Turing
 
 Facebook: https://www.facebook.com/grupoturing.usp/
