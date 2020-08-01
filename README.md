@@ -2,10 +2,17 @@
 
 Este repositório contém os materiais do **Workshop de Aprendizado por Reforço**, organizado pelo **[Grupo Turing](https://www.facebook.com/grupoturing.usp/)**.
 
+### [Complete o código do Workshop na nuvem!](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Participante.ipynb)
+
 ## 📚 Material do Workshop
 
-### - [👩‍🎓 Notebook do Participante](Pong%20-%20Participante.ipynb)
-### - [👩‍🏫 Notebook Gabarito](Pong%20-%20Gabarito.ipynb)
+### - [👩‍🏫 Slides - Introdução](Slides%20-%20Introdução.pdf)
+### - [👩‍🎓 Notebook do Participante](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Participante.ipynb)
+  - **[Na Nuvem! (Recomendado)](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Participante.ipynb)**
+  - **[No Github](Pong%20-%20Participante.ipynb)**
+### - [👩‍🏫 Notebook Gabarito](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Gabarito.ipynb)
+  - **[Na Nuvem! (Recomendado)](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Gabarito.ipynb)**
+  - **[No Github](Pong%20-%20Gabarito.ipynb)**
 
 ## 🧠 Grupo Turing
 
