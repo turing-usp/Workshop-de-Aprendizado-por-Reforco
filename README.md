@@ -6,6 +6,12 @@ Este repositório contém os materiais do **Workshop de Aprendizado por Reforço
 
 ### [Complete o código do Workshop na nuvem!](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Participante.ipynb)
 
+Caso queira rodar no seu próprio computador, basta rodar o seguinte comando:
+
+```bash
+pip install git+https://github.com/GrupoTuring/turing-envs
+```
+
 ## 📚 Material do Workshop
 
 ### - [👩‍🏫 Slides - Introdução](Slides%20-%20Introdução.pdf)
