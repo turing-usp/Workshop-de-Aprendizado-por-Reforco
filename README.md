@@ -9,7 +9,7 @@ Este repositório contém os materiais do **Workshop de Aprendizado por Reforço
 Caso queira rodar no seu próprio computador, basta rodar o seguinte comando:
 
 ```bash
-pip install git+https://github.com/GrupoTuring/turing-envs
+pip install turing-envs
 ```
 
 ## 📚 Material do Workshop
