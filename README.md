@@ -18,8 +18,8 @@ pip install turing-envs
 ### - [👩‍💻 Notebook do Participante](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Participante.ipynb)
   - **[Na Nuvem! (Recomendado)](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Participante.ipynb)**
   - **[No Github](Pong%20-%20Participante.ipynb)**
-### - [👩‍⚖️ Notebook Gabarito](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Gabarito.ipynb)
-  - **[Na Nuvem! (Recomendado)](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Gabarito.ipynb)**
+### - [👩‍⚖️ Notebook Gabarito](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/colab/Pong%20-%20Gabarito.ipynb)
+  - **[Na Nuvem! (Recomendado)](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/colab/Pong%20-%20Gabarito.ipynb)**
   - **[No Github](Pong%20-%20Gabarito.ipynb)**
 
 ## 🧠 Grupo Turing
