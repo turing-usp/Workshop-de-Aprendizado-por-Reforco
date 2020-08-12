@@ -4,20 +4,20 @@ Este repositório contém os materiais do **Workshop de Aprendizado por Reforço
 
 **🚧 Repositório Em Construção 🏗**
 
-### [Complete o código do Workshop na nuvem!](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Participante.ipynb)
+### [Complete o código do Workshop na nuvem!](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/colab/Pong%20-%20Participante.ipynb)
 
 Caso queira rodar no seu próprio computador, basta rodar o seguinte comando:
 
 ```bash
-pip install turing-envs
+pip install -U turing-envs
 ```
 
 ## 📚 Material do Workshop
 
 ### - [👩‍🏫 Slides - Introdução](Slides%20-%20Introdução.pdf)
 ### - [👩‍🏫 Slides - Q-Learning](Slides%20-%20Q-Learning.pdf)
-### - [👩‍💻 Notebook do Participante](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Participante.ipynb)
-  - **[Na Nuvem! (Recomendado)](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/master/Pong%20-%20Participante.ipynb)**
+### - [👩‍💻 Notebook do Participante](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/colab/Pong%20-%20Participante.ipynb)
+  - **[Na Nuvem! (Recomendado)](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/colab/Pong%20-%20Participante.ipynb)**
   - **[No Github](Pong%20-%20Participante.ipynb)**
 ### - [👩‍⚖️ Notebook Gabarito](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/colab/Pong%20-%20Gabarito.ipynb)
   - **[Na Nuvem! (Recomendado)](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/colab/Pong%20-%20Gabarito.ipynb)**
