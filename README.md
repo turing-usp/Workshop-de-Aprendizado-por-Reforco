@@ -2,7 +2,9 @@
 
 Este repositório contém os materiais do **Workshop de Aprendizado por Reforço**, organizado pelo **[Grupo Turing](https://www.facebook.com/grupoturing.usp/)**.
 
-### [Complete o código do Workshop na nuvem!](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/colab/Pong%20-%20Participante.ipynb)
+### [🎥 Vídeo Completo do Workshop](https://youtu.be/FxcWqI-l29E)
+
+### [👩‍💻 Complete o código do Workshop na nuvem!](https://colab.research.google.com/github/GrupoTuring/Workshop-de-Aprendizado-por-Reforco/blob/colab/Pong%20-%20Participante.ipynb)
 
 Caso queira rodar no seu próprio computador, basta rodar o seguinte comando:
 
